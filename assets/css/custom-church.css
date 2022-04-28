@@ -47,8 +47,8 @@
 
 
 	.googlemap{
-		width: 450px;
-		height: 800px;
+		width: 850px;
+		height: 1200px;
 	}
 
 	.grey-background{
@@ -60,7 +60,7 @@
 		padding-left: 15px;
 	}
 
-@media only screen and (max-width: 900px){
+@media only screen and (max-width: 1800px){
 	.carousel-img-2{
 		/*no "center center" no-repeat based on the particuar picture (4.jpg)"*/
 		background: url("../img/4.jpg") center center no-repeat;
